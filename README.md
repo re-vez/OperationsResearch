@@ -1,3 +1,3 @@
-# IDO
+# Operations Research
 
-En este repositorio se encuentran algunos algoritmos utilizados en el área de Investigación de Operaciones.
+This repo contains some Operational Research algorithms.
